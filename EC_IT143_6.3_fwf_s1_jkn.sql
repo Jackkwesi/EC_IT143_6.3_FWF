@@ -1,0 +1,3 @@
+-- EC_IT143_6.3_fwf_s1_jn.sql
+-- Question:
+-- How can I extract first name from ContactName?
